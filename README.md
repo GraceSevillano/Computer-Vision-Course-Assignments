@@ -25,6 +25,8 @@ Implements a Harris corner detector for tracking keypoints over time using patch
 
 **Environment:** `myharris_track.yml`
 
+![SIFT Robust Tracking GIF](https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment1_tracker/sift_Robust.gif)
+
 ### Assignment II - Object Recognition & Augmented Reality with Homographies
 
 **Folder:** `Assignment2_recognition`
@@ -33,6 +35,9 @@ Focuses on object recognition and robust homography estimation with RANSAC, incl
 
 **Environment:** `cv_recognition.yml`
 
+![Object Recognition Image 1](https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment2_recognition/image_readme1.png)
+![Object Recognition Image 2](https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment2_recognition/image_readme2.png)
+
 ### Assignment III - Epipolar Geometry & 8-Point Algorithm
 
 **Folder:** `Assignment3_epipolar`
@@ -40,6 +45,9 @@ Focuses on object recognition and robust homography estimation with RANSAC, incl
 Estimates the fundamental matrix for an uncalibrated camera using the 8-Point Algorithm, demonstrating a foundational understanding of epipolar geometry in stereo vision contexts.
 
 **Environment:** `epipolar.yml`
+
+![Epipolar Geometry Input Image](https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment3_epipolar/INPUT.png)
+![Epipolar Geometry Correspondences](https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment3_epipolar/epi1_correspondences.png)
 
 ## Technologies
 
