@@ -46,8 +46,10 @@ Estimates the fundamental matrix for an uncalibrated camera using the 8-Point Al
 
 **Environment:** `epipolar.yml`
 
-![Epipolar Geometry Input Image](https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment3_epipolar/INPUT.png)
-![Epipolar Geometry Correspondences](https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment3_epipolar/epi1_correspondences.png)
+<p align="center">
+  <img src="https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment3_epipolar/INPUT.png" width="552" height="274" />
+  <img src="https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment3_epipolar/epi1_correspondences.png" width="552" height="274" />
+</p>
 
 ## Technologies
 
