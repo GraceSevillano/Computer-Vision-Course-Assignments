@@ -35,8 +35,10 @@ Focuses on object recognition and robust homography estimation with RANSAC, incl
 
 **Environment:** `cv_recognition.yml`
 
-![Object Recognition Image 1](https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment2_recognition/image_readme1.png)
-![Object Recognition Image 2](https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment2_recognition/image_readme2.png)
+<p align="center">
+  <img src="https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment2_recognition/image_readme1.png" width="276" />
+  <img src="https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment2_recognition/image_readme2.png" width="276" />
+</p>
 
 ### Assignment III - Epipolar Geometry & 8-Point Algorithm
 
@@ -47,8 +49,8 @@ Estimates the fundamental matrix for an uncalibrated camera using the 8-Point Al
 **Environment:** `epipolar.yml`
 
 <p align="center">
-  <img src="https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment3_epipolar/INPUT.png" width="552" height="274" />
-  <img src="https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment3_epipolar/epi1_correspondences.png" width="552" height="274" />
+  <img src="https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment3_epipolar/INPUT.png" width="276" height="137" />
+  <img src="https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment3_epipolar/epi1_correspondences.png" width="276" height="137" />
 </p>
 
 ## Technologies
