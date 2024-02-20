@@ -36,8 +36,8 @@ Focuses on object recognition and robust homography estimation with RANSAC, incl
 **Environment:** `cv_recognition.yml`
 
 <p align="center">
-  <img src="https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment2_recognition/image_readme1.png" width="276" />
-  <img src="https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment2_recognition/image_readme2.png" width="276" />
+  <img src="https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment2_recognition/image_readme1.png" width="331.2" height="164.4"/>
+  <img src="https://github.com/GraceSevillano/Computer-Vision-Course-Assignments/blob/master/Assignment2_recognition/image_readme2.png" width="331.2" height="164.4" />
 </p>
 
 ### Assignment III - Epipolar Geometry & 8-Point Algorithm
