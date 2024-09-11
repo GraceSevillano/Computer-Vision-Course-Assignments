@@ -85,5 +85,3 @@ High-level OpenCV implementations are used solely for debugging purposes and res
 
 - [KITTI Visual Odometry dataset](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
 - [OpenCV Tutorials](https://opencv.org/)
-
-Adjust the references section as needed based on your assignment requirements and external sources used.
